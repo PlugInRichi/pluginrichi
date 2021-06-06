@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there :vulcan_salute:
+
+
+ Hardworking student with close interest in research, excellent collaborations skills and great passion for programming. Over the course of my career, I have been attracted to **Machine Learning** :robot: , **Natural Language Processing** :speech_balloon:, **Computational Vision** 	:eye: and **Digital Signal Processing** :satellite:
+
+### I belive that:
+
+* Complex problems need creative solutions.
+* Communication and frankness are two virtues that help teamwork.
 
 <!--
 **PlugInRichi/pluginrichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
