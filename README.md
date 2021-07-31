@@ -6,7 +6,10 @@
 ### I belive that:
 
 * Complex problems need creative solutions.
-* Communication and frankness are two virtues that help teamwork.
+* Communication is the key to work in team.
+* Pizza with pineapple is delicious :pizza:
+
+Keep an open mind to find the unbelievable...
 
 <!--
 **PlugInRichi/pluginrichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
