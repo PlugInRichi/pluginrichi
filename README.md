@@ -1,15 +1,12 @@
 ## Hi there :vulcan_salute:
 
-
- Hardworking student with close interest in research, excellent collaborations skills and great passion for programming. Over the course of my career, I have been attracted to **Machine Learning** :robot: , **Natural Language Processing** 📃 , **Computational Vision** 	:eye: and **Digital Signal Processing** :satellite:
+Computer Engineer with close interest in research, excellent collaborations skills and great passion for programming. Over the course of my career, I have been attracted to **Machine Learning** :robot: , **Natural Language Processing** 📃 , **Computational Vision** 	:eye: and **Digital Signal Processing** :satellite:
 
 ### I belive that:
 
 * Complex problems need creative solutions ✨
 * Communication is the key to work in team 💬
 * Pizza with pineapple is delicious :pizza:
-
-Keep an open mind to find the unbelievable...
 
 <!--
 **PlugInRichi/pluginrichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
