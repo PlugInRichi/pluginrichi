@@ -9,27 +9,27 @@ Computer Engineer with close interest in research, excellent collaborations skil
 * Pizza with pineapple is delicious :pizza:
 
 ### Machine Learning
-* Deep Learning :brain:
-* Decision Tree :deciduous_tree:
-* Random Forest :evergreen_tree: :evergreen_tree:
-* Logic Regression
-* Linear Regression :chart_with_upwards_trend:
-* Support vector machine
-* K-Nearest Neighbors :family_man_man_girl_girl:
-* K-means
-* Hierarchical cluster
-* PCA
+Deep Learning :brain:
+Decision Tree :deciduous_tree:
+Random Forest :evergreen_tree: :evergreen_tree:
+Logic Regression
+Linear Regression :chart_with_upwards_trend:
+Support vector machine
+K-Nearest Neighbors :family_man_man_girl_girl:
+K-means
+Hierarchical cluster
+PCA
 
 ### Programming lenguajes
 
-* Python :snake:
-* C / C++ 
-* Matlab :1234:
-* VHDL
-* Java :coffee:
-* JavaScript 
-* PHP :computer:
-* SQL
+Python :snake:
+C / C++ 
+Matlab :1234:
+VHDL
+Java :coffee:
+JavaScript 
+PHP :computer:
+SQL
 
 ### Famliar technoligies
 Docker :whale2: , 
