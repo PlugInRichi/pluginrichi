@@ -1,11 +1,12 @@
 # Hi there :vulcan_salute:
 
-Computer Engineer with close interest in research, excellent collaborations skills and great passion for programming. Over the course of my career, I have been attracted to **Machine Learning** :robot: , **Natural Language Processing** 📃 , **Computational Vision** 	:eye: and **Digital Signal Processing** :satellite:
+Computer Engineer with close interest in research, excellent collaborations skills and great passion for programming. I have been attracted to **Machine Learning** :robot: , **Natural Language Processing** 📃 , **Computational Vision** 	:eye: and **Digital Signal Processing** :satellite:
 
 ## I belive that:
 
-* Complex problems need creative solutions ✨
+* Complex problems need original solutions ✨
 * Communication is the key to work in team 💬
+* Making mistakes and learning from them is part of the creative process ⚡
 * Pizza with pineapple is delicious :pizza:
 
 ### Machine Learning
@@ -16,8 +17,8 @@ Logic Regression
 Linear Regression :chart_with_upwards_trend:
 Support vector machine
 K-Nearest Neighbors :family_man_man_girl_girl:
-K-means
-Hierarchical cluster
+K-means,
+Hierarchical cluster,
 PCA
 
 ### Programming lenguajes
