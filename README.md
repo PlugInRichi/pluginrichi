@@ -10,7 +10,7 @@ Computer Engineer with close interest in research, excellent collaborations skil
 * Pizza with pineapple is delicious :pizza:
 
 ### Machine Learning
-Deep Learning :brain:
+Deep Learning (CNN, RNN, LSTM, GANs, Bayesian NN) :brain:
 Decision Tree :deciduous_tree:
 Random Forest :evergreen_tree: :evergreen_tree:
 Logic Regression
@@ -37,6 +37,8 @@ Docker :whale2: ,
 Git,
 Linux administration :penguin: ,
 SSH, 
+Jenkins 👨‍🦱:, 
+Control M, 
 Anaconda :snake: ,
 
 
